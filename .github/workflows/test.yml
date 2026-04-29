@@ -1,0 +1,43 @@
+name: "Test API REST endpoints"
+
+on:
+  pull_request:
+    branches: [main]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: "Run supertest"
+
+    runs-on: ${{ matrix.operating-system }}
+
+    strategy:
+      matrix:
+        operating-system: [ubuntu-latest]
+        node-version: ["24.x"]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Start PaperMC server
+        run: docker compose up --build
+
+      - name: Setup Node.js ${{ matrix.node-version}}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install depedencies
+        run: npm ci
+
+      - name: Wait for PaperMC to be ready
+        run: sleep 30
+
+      - name: Run tests
+        run: npm test
+
+      - name: Stop PaperMC server
+        if: always()
+        run: docker compose down

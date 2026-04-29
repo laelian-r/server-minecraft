@@ -1,0 +1,249 @@
+[07:58:17] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Eclipse Adoptium Temurin-25.0.2+10) on Linux 6.6.87.2-microsoft-standard-WSL2 (amd64)
+[07:58:17] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-130-ver/1.21.11@c5a2736 (2026-04-11T11:14:19Z) for Minecraft 1.21.11
+[07:58:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[07:58:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[07:58:33] [ServerMain/ERROR]: You have used the Spigot command line EULA agreement flag.
+[07:58:33] [ServerMain/ERROR]: By using this setting you are indicating your agreement to Mojang's EULA (https://aka.ms/MinecraftEULA).
+[07:58:33] [ServerMain/ERROR]: If you do not agree to the above EULA please stop your server and remove this flag immediately.
+[07:58:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[07:58:52] [ServerMain/INFO]: Loaded 1470 recipes
+[07:58:52] [ServerMain/INFO]: Loaded 1584 advancements
+[07:58:52] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[07:58:53] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,315.7ms
+[07:58:54] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[07:58:54] [Server thread/INFO]: Loading properties
+[07:58:54] [Server thread/INFO]: This server is running Paper version 1.21.11-130-ver/1.21.11@c5a2736 (2026-04-11T11:14:19Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[07:58:54] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[07:58:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[07:58:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[07:58:57] [Server thread/INFO]: [MoonriseCommon] Paper is using 3 worker threads, 1 I/O threads
+[07:58:58] [Server thread/INFO]: Default game type: SURVIVAL
+[07:58:58] [Server thread/INFO]: Generating keypair
+[07:58:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:58:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[07:58:59] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[07:58:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:58:59] [Server thread/INFO]: Preparing level "world"
+[07:59:01] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[07:59:01] [Server thread/INFO]: Preparing spawn area: 100%
+[07:59:01] [Server thread/INFO]: Prepared spawn area in 3 ms
+[07:59:01] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[07:59:01] [Server thread/INFO]: Preparing spawn area: 100%
+[07:59:01] [Server thread/INFO]: Prepared spawn area in 4 ms
+[07:59:01] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[07:59:01] [Server thread/INFO]: Preparing spawn area: 100%
+[07:59:01] [Server thread/INFO]: Prepared spawn area in 2 ms
+[07:59:01] [Server thread/INFO]: Done preparing level "world" (1.871s)
+[07:59:01] [Server thread/INFO]: [spark] Starting background profiler...
+[07:59:02] [Server thread/INFO]: Starting remote control listener
+[07:59:02] [Server thread/INFO]: Thread RCON Listener started
+[07:59:02] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[07:59:02] [Server thread/INFO]: Running delayed init tasks
+[07:59:02] [Server thread/INFO]: Done (49.571s)! For help, type "help"
+[08:01:28] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:01:50] [RCON Client /172.23.0.1 #2/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[08:01:53] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:05:47] [RCON Client /172.23.0.1 #3/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[08:05:50] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:07:00] [RCON Client /172.23.0.1 #4/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[08:07:04] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:09:52] [RCON Client /172.23.0.1 #5/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[08:09:55] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:10:30] [RCON Client /172.23.0.1 #6/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[08:10:33] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:10:54] [RCON Client /172.23.0.1 #7/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[08:11:01] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:14:27] [RCON Client /172.23.0.1 #8/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[08:14:31] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:14:36] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[08:15:14] [RCON Client /172.23.0.1 #9/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[08:15:20] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:15:22] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[08:21:40] [User Authenticator #0/INFO]: UUID of player Laelian_64r is c33e23c2-fe6f-4523-81f7-57f67f288997
+[08:22:06] [Server thread/INFO]: Laelian_64r joined the game
+[08:22:07] [Server thread/INFO]: Laelian_64r[/172.23.0.1:55556] logged in with entity id 57 at ([world]-180.85835976846386, 71.0, -118.48492565380387)
+[08:22:07] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[08:25:01] [Server thread/INFO]: Laelian_64r issued server command: /kill @e[name="MIN ZOMPIE !!! 🙋"]
+[08:25:01] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/21, uuid='bb09d240-8d9b-48d4-a406-0ed2e6da55f7', l='ServerLevel[world]', x=-178.54, y=67.00, z=-127.50, cpos=[-12, -8], tl=3171, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[08:25:01] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/20, uuid='ededfeb5-8199-4809-a627-ceade06dc020', l='ServerLevel[world]', x=-167.27, y=71.00, z=-135.53, cpos=[-11, -9], tl=3171, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[08:25:01] [Server thread/INFO]: [Laelian_64r: Killed 2 entities]
+[08:28:53] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[08:29:17] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/876, uuid='b013d3f6-f89b-4413-a50b-98c630cb3720', l='ServerLevel[world]', x=-174.82, y=69.00, z=-119.79, cpos=[-11, -8], tl=483, v=true] died: MIN ZOMPIE !!! 🙋 burned to death
+[08:31:50] [Server thread/INFO]: Laelian_64r issued server command: /kill @e[name="MIN ZOMPIE !!! 🙋"]
+[08:32:04] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[08:32:24] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/1222, uuid='ce4f25c2-2cbe-4f52-b4f1-319cd1934679', l='ServerLevel[world]', x=-183.20, y=68.00, z=-120.48, cpos=[-12, -8], tl=390, v=true] died: MIN ZOMPIE !!! 🙋 burned to death
+[08:36:46] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[08:54:43] [Server thread/INFO]: Laelian_64r lost connection: Disconnected
+[08:54:47] [Server thread/INFO]: Laelian_64r left the game
+[08:58:23] [RCON Client /172.23.0.1 #10/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[08:58:33] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[08:58:34] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[08:59:33] [RCON Client /172.23.0.1 #11/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:02:45] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:03:50] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:03:57] [User Authenticator #1/INFO]: UUID of player Laelian_64r is c33e23c2-fe6f-4523-81f7-57f67f288997
+[09:04:01] [Server thread/INFO]: Laelian_64r joined the game
+[09:04:01] [Server thread/INFO]: Laelian_64r[/172.23.0.1:37076] logged in with entity id 1910 at ([world]-180.85835976846386, 71.0, -118.48492565380387)
+[09:04:14] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/1879, uuid='ced6e33d-0e9c-4aa9-b5ea-3b8824fe8de1', l='ServerLevel[world]', x=-187.19, y=71.00, z=-90.89, cpos=[-12, -6], tl=130, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:04:14] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/1878, uuid='6a5762ae-c521-4ea4-90d8-a1cbdf7b23df', l='ServerLevel[world]', x=-182.51, y=66.00, z=-124.23, cpos=[-12, -8], tl=204, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:04:14] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/1877, uuid='9e363086-8fa6-4828-8eaa-4acd4d1b0ae2', l='ServerLevel[world]', x=-179.50, y=67.00, z=-118.78, cpos=[-12, -8], tl=204, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:04:14] [Server thread/INFO]: [Rcon: Killed 3 entities]
+[09:04:30] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:04:37] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/2126, uuid='2c19a80d-35cb-4318-9f62-eee8fa08840d', l='ServerLevel[world]', x=-182.51, y=66.00, z=-112.29, cpos=[-12, -8], tl=149, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:04:37] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:04:44] [Server thread/INFO]: Laelian_64r lost connection: Disconnected
+[09:04:45] [Server thread/INFO]: Laelian_64r left the game
+[09:11:20] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:11:32] [User Authenticator #2/INFO]: UUID of player Laelian_64r is c33e23c2-fe6f-4523-81f7-57f67f288997
+[09:11:34] [Server thread/INFO]: Laelian_64r joined the game
+[09:11:35] [Server thread/INFO]: Laelian_64r[/172.23.0.1:47648] logged in with entity id 2199 at ([world]-180.85835976846386, 71.0, -118.48492565380387)
+[09:11:41] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/2168, uuid='998a2f09-9ef4-42cb-b1f0-d2d51d5caabe', l='ServerLevel[world]', x=-174.33, y=66.00, z=-109.33, cpos=[-11, -7], tl=147, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:11:41] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:12:09] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:12:12] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/2401, uuid='25fb523f-8cf2-4acb-8ec5-10939dd30261', l='ServerLevel[world]', x=-179.50, y=67.00, z=-118.50, cpos=[-12, -8], tl=67, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:12:12] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:31:42] [RCON Client /172.23.0.1 #12/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:31:49] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:31:57] [RCON Client /172.23.0.1 #13/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:35:41] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:36:31] [RCON Client /172.23.0.1 #14/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:36:35] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:37:02] [RCON Client /172.23.0.1 #15/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:37:05] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:39:48] [RCON Client /172.23.0.1 #16/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:39:52] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:40:36] [RCON Client /172.23.0.1 #17/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:40:39] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:40:39] [RCON Client /172.23.0.1 #18/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:41:51] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:41:51] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:41:51] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:41:51] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/5831, uuid='d37056a8-a50c-4c90-8fb2-30d28ee2bd1b', l='ServerLevel[world]', x=-179.50, y=70.77, z=-118.50, cpos=[-12, -8], tl=3, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:41:51] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:41:51] [RCON Client /172.23.0.1 #20/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:42:12] [RCON Client /172.23.0.1 #19/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:42:15] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:42:15] [RCON Client /172.23.0.1 #21/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:44:52] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:44:52] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:44:53] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:44:53] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/6250, uuid='b9a68564-e047-4b7e-8bf7-77c4db8ff249', l='ServerLevel[world]', x=-179.50, y=70.54, z=-118.50, cpos=[-12, -8], tl=4, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:44:53] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:44:53] [RCON Client /172.23.0.1 #23/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:45:41] [RCON Client /172.23.0.1 #22/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:45:44] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:45:44] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:45:44] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:45:44] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/6347, uuid='14ae199e-0442-41cc-b42f-2ff732f252c0', l='ServerLevel[world]', x=-179.50, y=71.00, z=-118.50, cpos=[-12, -8], tl=1, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:45:44] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:45:44] [RCON Client /172.23.0.1 #25/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:47:04] [RCON Client /172.23.0.1 #24/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:47:08] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:47:08] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:47:08] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:47:08] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/6485, uuid='fb512bed-ef01-4dee-8716-2fd58e4fc83b', l='ServerLevel[world]', x=-179.50, y=71.00, z=-118.50, cpos=[-12, -8], tl=1, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:47:08] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:47:08] [RCON Client /172.23.0.1 #27/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:47:26] [RCON Client /172.23.0.1 #26/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:47:29] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:47:29] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:47:29] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:47:29] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/6534, uuid='c59204b1-1790-4b2b-9604-974e5972c334', l='ServerLevel[world]', x=-179.50, y=71.00, z=-118.50, cpos=[-12, -8], tl=1, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:47:29] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:47:29] [RCON Client /172.23.0.1 #29/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:47:42] [RCON Client /172.23.0.1 #28/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:48:44] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:48:44] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:48:44] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:48:45] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/6662, uuid='ad49e56c-961d-4cbb-9c8e-6fc9d09b694a', l='ServerLevel[world]', x=-179.50, y=71.00, z=-118.50, cpos=[-12, -8], tl=0, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:48:45] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:48:45] [RCON Client /172.23.0.1 #31/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:49:14] [RCON Client /172.23.0.1 #30/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:49:17] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:49:17] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:49:18] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:49:18] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/6724, uuid='9273749c-e9d0-45a4-b113-98c07ea251ef', l='ServerLevel[world]', x=-179.50, y=70.92, z=-118.50, cpos=[-12, -8], tl=2, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:49:18] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:49:18] [RCON Client /172.23.0.1 #33/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:49:49] [RCON Client /172.23.0.1 #32/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[09:49:52] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:49:52] [RCON Listener #1/INFO]: Thread RCON Client /172.23.0.1 started
+[09:49:52] [Server thread/INFO]: [Rcon: Summoned new MIN ZOMPIE !!! 🙋]
+[09:49:52] [Server thread/INFO]: Named entity Zombie['MIN ZOMPIE !!! 🙋'/6798, uuid='9a4a9672-e75b-4396-9a42-3d1e7e630c1c', l='ServerLevel[world]', x=-179.50, y=71.00, z=-118.50, cpos=[-12, -8], tl=1, v=true] died: MIN ZOMPIE !!! 🙋 was killed
+[09:49:52] [Server thread/INFO]: [Rcon: Killed MIN ZOMPIE !!! 🙋]
+[09:49:52] [RCON Client /172.23.0.1 #35/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[11:08:01] [Server thread/INFO]: Laelian_64r lost connection: Disconnected
+[11:08:05] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-130-c5a2736 (MC: 1.21.11) ---
+[11:08:05] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[11:08:05] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:08:05] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[11:08:05] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:08:05] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[11:08:06] [Paper Watchdog Thread/ERROR]: 	PID: 57 | Suspended: false | Native: false | State: RUNNABLE
+[11:08:06] [Paper Watchdog Thread/ERROR]: 	Stack:
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.WrapperAwareSerializer.deserialize(WrapperAwareSerializer.java:26)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.WrapperAwareSerializer.deserialize(WrapperAwareSerializer.java:13)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.PaperAdventure.asAdventure(PaperAdventure.java:184)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.remove(PlayerList.java:430)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:2265)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2243)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.Connection.handleDisconnection(Connection.java:820)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:244)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1870)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:549)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1833)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1611)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:427)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1667)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1335)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000000003dfb4790.run(Unknown Source)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		java.base@25.0.2/java.lang.Thread.runWith(Unknown Source)
+[11:08:06] [Paper Watchdog Thread/ERROR]: 		java.base@25.0.2/java.lang.Thread.run(Unknown Source)
+[11:08:06] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:08:06] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[11:08:06] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:08:10] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.11-130-c5a2736 (MC: 1.21.11) ---
+[11:08:10] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[11:08:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:08:10] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[11:08:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:08:10] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[11:08:10] [Paper Watchdog Thread/ERROR]: 	PID: 57 | Suspended: false | Native: false | State: RUNNABLE
+[11:08:10] [Paper Watchdog Thread/ERROR]: 	Stack:
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.common.misc.NearbyPlayers$TrackedChunk.removePlayer(NearbyPlayers.java:211)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.common.misc.NearbyPlayers$TrackedPlayer.removeCallback(NearbyPlayers.java:261)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.common.misc.NearbyPlayers$TrackedPlayer.removeCallback(NearbyPlayers.java:223)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.common.misc.SingleUserAreaMap.removeFromOld(SingleUserAreaMap.java:58)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.common.misc.SingleUserAreaMap.remove(SingleUserAreaMap.java:242)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.common.misc.NearbyPlayers.removePlayer(NearbyPlayers.java:99)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.level.entity.server.ServerEntityLookup.removeEntityCallback(ServerEntityLookup.java:105)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup$EntityCallback.onRemove(EntityLookup.java:990)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.setRemoved(Entity.java:5196)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Entity.remove(Entity.java:722)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.remove(LivingEntity.java:744)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.player.Player.remove(Player.java:1351)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.removePlayerImmediately(ServerLevel.java:1667)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.remove(PlayerList.java:496)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.remove(PlayerList.java:430)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:2265)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2243)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.Connection.handleDisconnection(Connection.java:820)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:244)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickConnection(MinecraftServer.java:1870)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:549)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1833)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1611)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickServer(DedicatedServer.java:427)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1667)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1335)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000000003dfb4790.run(Unknown Source)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		java.base@25.0.2/java.lang.Thread.runWith(Unknown Source)
+[11:08:10] [Paper Watchdog Thread/ERROR]: 		java.base@25.0.2/java.lang.Thread.run(Unknown Source)
+[11:08:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:08:10] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[11:08:10] [Paper Watchdog Thread/ERROR]: ------------------------------
+[11:08:10] [Server thread/INFO]: Laelian_64r left the game
+[14:24:49] [RCON Client /172.23.0.1 #34/INFO]: Thread RCON Client /172.23.0.1 shutting down
+[14:24:49] [Server thread/INFO]: Stopping server
