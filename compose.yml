@@ -1,0 +1,8 @@
+services:
+  lroux-api:
+    container_name: lroux-api
+    image: ghcr.io/laelian-r/server-minecraft:0.0.5
+    ports:
+      - 3000:3000
+    environment:
+      - NODE_ENV=production

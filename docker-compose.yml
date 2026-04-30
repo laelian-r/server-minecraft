@@ -1,15 +1,23 @@
 services:
-  minecraft-papermc:
-    container_name: minecraft-papermc
-    restart: unless-stopped
-    image: marctv/minecraft-papermc-server:1.21.11-130
+  # minecraft-papermc:
+  #   container_name: minecraft-papermc
+  #   restart: unless-stopped
+  #   image: marctv/minecraft-papermc-server:1.21.11-130
+  #   ports:
+  #     - 25565:25565
+  #     - 25575:25575
+  #   environment:
+  #     - MEMORYSIZE=1G
+  #   volumes:
+  #     - ./data:/data:rw
+  #   # The following allow `docker attach minecraft` to work
+  #   stdin_open: true
+  #   tty: true
+
+  lroux-api:
+    container_name: lroux-api
+    image: ghcr.io/laelian-r/server-minecraft:0.0.5
     ports:
-      - 25565:25565
-      - 25575:25575
+      - 3000:3000
     environment:
-      - MEMORYSIZE=1G
-    volumes:
-      - ./data:/data:rw
-    # The following allow `docker attach minecraft` to work
-    stdin_open: true
-    tty: true
+      - NODE_ENV=production

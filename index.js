@@ -21,6 +21,10 @@ connectRcon();
 
 export const app = express().use(express.json());
 
+app.get("/", (req, res) => {
+	res.sendStatus(200);
+});
+
 app.post("/mobs", async (req, res) => {
 	const { type, x, y, z, CustomName, CustomNameVisible } = req.body;
 
