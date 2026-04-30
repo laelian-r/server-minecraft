@@ -52,6 +52,6 @@ app.delete("/mobs", async (req, res) => {
 	res.status(200).send(rconResponse);
 });
 
-export const server = app.listen(3000, () => {
+export const server = app.listen(3000, "0.0.0.0", () => {
 	console.log("Server is running on http://localhost:3000");
 });
