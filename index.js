@@ -4,13 +4,17 @@ import { Rcon } from "rcon-client";
 export let rcon;
 
 export async function connectRcon() {
-	rcon = await Rcon.connect({
-		host: "localhost",
-		port: 25575,
-		password: "1234",
-	});
-	console.log("[RCON] Connected at 0.0.0.0:25575");
-	rcon.on("end", () => console.log("[RCON] Disconnected from 0.0.0.0:25575"));
+	try {
+		rcon = await Rcon.connect({
+			host: "localhost",
+			port: 25575,
+			password: "1234",
+		});
+		console.log("[RCON] Connected at 0.0.0.0:25575");
+		rcon.on("end", () => console.log("[RCON] Disconnected from 0.0.0.0:25575"));
+	} catch (err) {
+		console.error(err);
+	}
 }
 
 connectRcon();
